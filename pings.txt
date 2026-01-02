@@ -1,0 +1,13 @@
+PC3 moze pingat:
+
+The DNS Server  DA
+
+Laptop 0 DA
+
+Smartphone DA
+
+PC 0 DA
+
+PC 1 DA
+
+The FTP Server  DA
